@@ -1,0 +1,15 @@
+D:\.net\heros\bin\Debug\net6.0\heros.exe
+D:\.net\heros\bin\Debug\net6.0\heros.deps.json
+D:\.net\heros\bin\Debug\net6.0\heros.runtimeconfig.json
+D:\.net\heros\bin\Debug\net6.0\heros.dll
+D:\.net\heros\bin\Debug\net6.0\heros.pdb
+D:\.net\heros\obj\Debug\net6.0\heros.csproj.AssemblyReference.cache
+D:\.net\heros\obj\Debug\net6.0\heros.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\heros\obj\Debug\net6.0\heros.AssemblyInfoInputs.cache
+D:\.net\heros\obj\Debug\net6.0\heros.AssemblyInfo.cs
+D:\.net\heros\obj\Debug\net6.0\heros.csproj.CoreCompileInputs.cache
+D:\.net\heros\obj\Debug\net6.0\heros.dll
+D:\.net\heros\obj\Debug\net6.0\refint\heros.dll
+D:\.net\heros\obj\Debug\net6.0\heros.pdb
+D:\.net\heros\obj\Debug\net6.0\heros.genruntimeconfig.cache
+D:\.net\heros\obj\Debug\net6.0\ref\heros.dll
